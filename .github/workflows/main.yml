@@ -48,10 +48,12 @@ jobs:
 
         run: |
 
-          git config user.name "GitHub Actions Bot"
+          git config user.name "mendus59"
+
+          git config user.email "mendus59@gmail.com"
 
           git add data.json
 
-          git commit -m "Updated data from API"
+          git commit -m "Updated data from Federal Register API"
 
           git push origin HEAD:main
