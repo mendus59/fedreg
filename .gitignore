@@ -48,3 +48,5 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Secrets and environment info
+*.env
