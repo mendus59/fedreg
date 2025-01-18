@@ -28,7 +28,7 @@ jobs:
 
           API_URL="https://federalregister.gov/api/v1/documents.json"
 
-          API_PARAMS={"conditions[presidential_document_type][]": "executive_order","conditions[publication_date][gte]": "2025-01-14"}
+          API_PARAMS="conditions[presidential_document_type][]=executive_order&conditions[publication_date][gte]=2025-01-14"}
 
           
 
