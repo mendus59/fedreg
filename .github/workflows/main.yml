@@ -1,0 +1,57 @@
+name: Fetch Federal Registrar Data
+
+
+
+on:
+
+  push: 
+
+    branches: [ main ]
+
+
+
+jobs:
+
+  fetch-data:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+
+
+      - name: Fetch data from API
+
+        run: |
+
+          API_URL="https://federalregister.gov/api/v1/documents.json"
+
+          API_PARAMS={"conditions[presidential_document_type][]": "executive_order","conditions[publication_date][gte]": "2025-01-14"}
+
+          
+
+          # Make API call and store response in a variable
+
+          response=$(curl "$API_URL" -d API_PARAMS)
+
+          
+
+          # Write response to a file
+
+          echo "$response" > data.json
+
+
+
+      - name: Commit and push changes
+
+        run: |
+
+          git config user.name "GitHub Actions Bot"
+
+          git add data.json
+
+          git commit -m "Updated data from API"
+
+          git push origin HEAD:main
