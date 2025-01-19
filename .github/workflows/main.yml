@@ -25,4 +25,4 @@ jobs:
     steps:
       - name: execute federal_registrar script
         run: |
-          python scripts/federal_register_api.py
+          python ./scripts/federal_register_api.py
