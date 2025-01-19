@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: writing exec orders
-          path: order_objects
+          path: ${{ github.workspace }}/order_objects
