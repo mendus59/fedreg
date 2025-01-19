@@ -25,7 +25,6 @@ jobs:
           python federal_register_api.py
       
       - name: store output
-        uses: actions/upload-artifact@v4
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          name: writing exec orders
-          path: ${{ github.workspace }}/order_objects
+            commit_message: Exec orders identified and stores
