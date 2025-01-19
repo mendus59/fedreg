@@ -1,7 +1,10 @@
 
+import logging
 import requests
 import sys
 from ExecOrder import ExecOrder
+
+logger = logging.getLogger(__name__)
 
 def process_exec_order(exec_object):
     exec_order = ExecOrder(
@@ -27,12 +30,20 @@ def main(date):
             for result in results.json()["results"]:
                 exec_order = process_exec_order(result)
     except:
-        print("error parsing fedregister result")
+        logging.info("error parsing fedregister result")
 
 if __name__=="__main__":
+    logging.basicConfig(
+        filename='logs/full_log.log',
+        format='%(asctime)s %(levelname)-8s %(message)s',
+        level=logging.INFO,
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
+    logging.info('Hourly fedreg script started')
     try:
         date = sys.argv[1]
-        print("TESTING DATE VAR: " + date)
+        logging.info("Date requested: " + date)
         main(date)
     except:
-        print("Argument not provided")
+        logging.info("Argument not provided")
+    logging.info('Fedreg API run completed')

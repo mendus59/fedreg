@@ -1,4 +1,7 @@
 import json
+import logging
+
+logger = logging.getLogger(__name__)
 
 class ExecOrder:
     def __init__(self, doc_number, pdf, pub_date, title):
@@ -16,9 +19,9 @@ class ExecOrder:
         try:
             with open(filename, "x") as file:
                 json.dump(vars(self), file, indent=4)
-            print("Writing " + str(self))
+            logging.info("Writing " + str(self))
             with open("logs/write_log.txt", "a") as log:
                 log.write(str(self)+"\n")
         except:
-            pass
+            logging.info("Order exists: " + str(self))
         return
