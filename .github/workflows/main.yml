@@ -24,4 +24,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: execute federal_registrar script
-        run: python federal_register_api.py
+        run: python scripts/federal_register_api.py
