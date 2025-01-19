@@ -26,3 +26,5 @@ jobs:
       
       - name: store output
         uses: actions/upload-artifact@v4
+        with:
+          path: order_objects/
