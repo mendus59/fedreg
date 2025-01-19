@@ -20,6 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - uses: actions/download-artifact@v4
       - name: execute federal_registrar script
         run: |
           python federal_register_api.py
