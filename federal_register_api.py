@@ -32,6 +32,7 @@ def main(date):
 if __name__=="__main__":
     try:
         date = sys.argv[1]
+        print("TESTING DATE VAR: " + date)
         main(date)
     except:
         print("Argument not provided")
