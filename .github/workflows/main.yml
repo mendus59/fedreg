@@ -25,4 +25,4 @@ jobs:
           python federal_register_api.py
       
       - name: store output
-        uses: actions/download-artifact@v4
+        uses: actions/upload-artifact@v4
