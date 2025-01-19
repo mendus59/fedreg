@@ -24,6 +24,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: execute federal_registrar script
-        working-directory: ./scripts
+        working-directory: ${{github.workspace}}/scripts
         run: |
           python federal_register_api.py
