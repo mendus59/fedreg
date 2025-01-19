@@ -20,9 +20,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::(date = '%Y-%m-%d')"
+
       - name: execute federal_registrar script
         run: |
-          python federal_register_api.py
+          python federal_register_api.py ${{steps.date.outputs.date}}
       
       - name: store output
         uses: stefanzweifel/git-auto-commit-action@v4
