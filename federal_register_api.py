@@ -16,6 +16,7 @@ class ExecOrder:
         filename = "order_objects/" + self.document_number + ".json"
         with open(filename, "w+") as file:
             json.dump(vars(self), file, indent=4)
+            print("File " + self.document_number + " written successfully")
 
 def process_exec_order(exec_object):
     exec_order = ExecOrder(
