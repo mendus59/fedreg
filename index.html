@@ -15,7 +15,7 @@
                     <div class="card-body text-center">
                         <h3>Executive Order # {{this.document_number}}: {{this.title}}</h3>
                         <p>Publication Date: {{this.publication_date}}</p>
-                        <p>PDF Link: {{this.pdf_url}}</p>
+                        <p>PDF Link: <a href={{this.pdf_url}}>{{this.pdf_url}}</a></p>
                         <p>Summary: {{this.summary}}</p>
                     </div>
                 {{/each}}
