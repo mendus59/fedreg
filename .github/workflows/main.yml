@@ -1,6 +1,7 @@
 name: Fetch Federal Registrar Data
 
 on:
+  push:
   schedule:
     - cron: "0 * * * *"
 
@@ -22,7 +23,7 @@ jobs:
 
       - name: execute federal_registrar script
         run: |
-          python federal_register_api.py $(date +"%Y-%m-%d")
+          python federal_register_api.py $(date +"%Y-%m-%d") ${{ secrets.AI_SUMMARIZER_API_KEY }}
       
       - name: store output
         uses: stefanzweifel/git-auto-commit-action@v4
