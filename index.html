@@ -1,1 +1,32 @@
-Hello World
+<!doctype html>
+<html>
+    <head>
+        <title>ExecOrder Summaries</title>
+        <!-- Include Handlebars from a CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+        <script src="load_data.js"></script>
+    </head>
+    <body>
+        <script type="text/x-handlebars-template" id="exec_orders">
+            <h1>Executive Orders</h1>
+            <ul>
+                {{#each objects}}
+                    <li>
+                        <h3>Executive Order # {{this.document_number}}: {{this.title}}</h3>
+                        <p>Publication Date: {{this.publication_date}}</p>
+                        <p>PDF Link: {{this.pdf_url}}</p>
+                        <p>Summary: {{this.summary}}</p>
+                    </li>
+                {{/each}}
+            </ul>
+        </script>
+        <div id="content">
+
+        </div>
+    </body>
+<script>
+    window.onload = function(){
+        load_data()
+    }
+</script>
+</html>

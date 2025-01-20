@@ -25,7 +25,8 @@ class ExecOrder:
                 self.summarize(api_key)
                 
                 with open("logs/write_log.txt", "a") as log:
-                    log.write(str(self)+"\n")
+                    log_url = "./order_objects/" + self.document_number + ".json\n"
+                    log.write(log_url)
                 with open(self.get_url(), "x") as file:
                     json.dump(vars(self), file, indent=4)
                 logging.info("Object has been created: " + str(self))
