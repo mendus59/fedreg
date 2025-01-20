@@ -1,11 +1,6 @@
 ./order_objects/2025-01395.json
 ./order_objects/2025-01467.json
 ./order_objects/2025-01470.json
-./order_objects/2025-00620.json
-./order_objects/2025-00603.json
-./order_objects/2025-00611.json
-./order_objects/2025-00618.json
-./order_objects/2025-00619.json
 ./order_objects/2025-00622.json
 ./order_objects/2025-01437.json
 ./order_objects/2024-31766.json
