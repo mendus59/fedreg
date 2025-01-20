@@ -2,23 +2,24 @@
 <html>
     <head>
         <title>ExecOrder Summaries</title>
-        <!-- Include Handlebars from a CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
         <script src="load_data.js"></script>
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
         <script type="text/x-handlebars-template" id="exec_orders">
             <h1>Executive Orders</h1>
-            <ul>
+            <div class="card">
                 {{#each objects}}
-                    <li>
+                    <div class="card-body text-center">
                         <h3>Executive Order # {{this.document_number}}: {{this.title}}</h3>
                         <p>Publication Date: {{this.publication_date}}</p>
                         <p>PDF Link: {{this.pdf_url}}</p>
                         <p>Summary: {{this.summary}}</p>
-                    </li>
+                    </div>
                 {{/each}}
-            </ul>
+                </div>
         </script>
         <div id="content">
 

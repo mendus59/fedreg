@@ -12,6 +12,7 @@ async function load_data(){
             .then((json) => data.objects.push(json))
     }
 
+    data.objects.sort((a, b) => b.publication_date.localeCompare(a.publication_date))
     var exec_orders = Handlebars.compile(document.querySelector("#exec_orders").innerHTML);
     var loaded = exec_orders(data);
     document.querySelector("#content").innerHTML = loaded;
