@@ -45,17 +45,16 @@ class ExecOrder:
         return
 
     def summarize(self, api_key=None):
-        url = "https://api.apyhub.com/ai/summarize-documents/url"
-        headers = {
-            "apy-token": api_key,
-            "Content-Type": "application/json"
-        }
-        data = {
-            "url": self.pdf_url
+        url = "https://kagi.com/api/v0/summarize"
+        headers = {'Authorization': f'Bot '+ api_key}
+        params = {
+            "url": self.pdf_url,
+            "summary_type": "summary",
+            "engine": "cecil"
         }
         try:
-            results = requests.post(url=url, headers=headers, json=data)
-            summary = results.json()["data"]["summary"]
+            results = requests.post(url=url, headers=headers, params=params)
+            summary = results.json()["data"]["output"]
             self.summary = summary
             logging.info("AI Summary call set for " + str(self))
         except:
