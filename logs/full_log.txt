@@ -290,3 +290,11 @@
 2025-01-24 08:22:40 INFO     Date requested: 2025-01-24
 2025-01-24 08:22:41 INFO     Audit failed for: ./order_objects/.gitkeep
 2025-01-24 08:22:41 INFO     Fedreg API run completed
+2025-01-24 09:18:37 INFO     Hourly fedreg script started
+2025-01-24 09:18:37 INFO     Date requested: 2025-01-24
+2025-01-24 09:18:41 INFO     AI Summary call set for Executive Order #2025-01758: Helping Left-Behind Communities Make a Comeback
+2025-01-24 09:18:41 INFO     Object has been created: Executive Order #2025-01758: Helping Left-Behind Communities Make a Comeback
+2025-01-24 09:18:44 INFO     AI Summary call set for Executive Order #2025-01759: Partial Revocation of Executive Order 13961
+2025-01-24 09:18:44 INFO     Object has been created: Executive Order #2025-01759: Partial Revocation of Executive Order 13961
+2025-01-24 09:18:44 INFO     Audit failed for: ./order_objects/.gitkeep
+2025-01-24 09:18:44 INFO     Fedreg API run completed
