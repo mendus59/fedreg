@@ -1,12 +1,12 @@
 function getLatestDate(data) {
    // convert to timestamp and sort
    var sorted_ms = data.map(function(item) {
-      return new Date(item.publication_date).toDateString()
+      return item.publication_date
    }).sort(); 
    // take latest
    var latest_ms = sorted_ms[sorted_ms.length-1];
    // convert to js date object 
-   return new Date(latest_ms).toUTCString();
+   return latest_ms;
 }
 
 async function load_data(){
@@ -18,11 +18,15 @@ async function load_data(){
     const lines = log_data.split("\n");
 
     for(let i = 0; i < lines.length; i++){
-        await fetch(lines[i])
-            .then((response) => response.json())
-            .then((json) => data.objects.push(json))
+        try {
+            object = await fetch(lines[i])
+            json_object = await object.json()
+            await data.objects.push(json_object)
+        } catch (error) {
+            console.log(error)
+            console.log(json_object)
+        }
     }
-    
     data.objects.sort((a, b) => b.publication_date.localeCompare(a.publication_date))
     data.latest_date = getLatestDate(data.objects).toString()
     var exec_orders = Handlebars.compile(document.querySelector("#exec_orders").innerHTML);
