@@ -1,1 +1,4 @@
 ./json_objects/proclamation_objects/2025-01899.json
+./json_objects/proclamation_objects/2025-01948.json
+./json_objects/proclamation_objects/2025-01950.json
+./json_objects/proclamation_objects/2025-01951.json
