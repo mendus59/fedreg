@@ -13,7 +13,7 @@ async function load_data(){
     var data = {
         objects:[]
     };
-    const response = await fetch("./logs/write_log.txt");
+    const response = await fetch("./logs/executive_order_log.txt");
     const delay = ms => new Promise(res => setTimeout(res, ms));
     const log_data = await response.text();
     const lines = log_data.split("\n");

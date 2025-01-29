@@ -1,0 +1,4 @@
+./json_objects/memorandum_objects/2025-01904.json
+./json_objects/memorandum_objects/2025-01905.json
+./json_objects/memorandum_objects/2025-01906.json
+./json_objects/memorandum_objects/2025-01907.json

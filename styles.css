@@ -5,6 +5,11 @@ body {
     font-family: 'Calibri', sans-serif !important
 } 
 
+.container {
+    display: flex;
+    justify-content: space-between; /* Distributes elements evenly between left and right edges */
+}
+
 .mt-100{ 
    margin-top:100px;
 }

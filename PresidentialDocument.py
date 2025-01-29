@@ -5,27 +5,28 @@ import requests
 
 logger = logging.getLogger(__name__)
 
-class ExecOrder:
-    def __init__(self, doc_number, pdf, pub_date, title):
+class PresidentialDocument:
+    def __init__(self, doc_number, pdf, pub_date, title, doc_type):
         self.document_number = doc_number
         self.pdf_url = pdf
         self.publication_date = pub_date
         self.title = title
         self.summary = None
+        self.doc_type = doc_type
     
     def __str__(self):
-        return "Executive Order #" + self.document_number + ": " + self.title
+        return "Document #" + self.document_number + ": " + self.title
 
     def get_url(self):
-        return "order_objects/" + self.document_number + ".json"
+        return "json_objects/" + self.doc_type + "_objects/" + self.document_number + ".json"
 
     def save(self, api_key=None):
         try:
             if not Path(self.get_url()).exists():
                 self.summarize(api_key)
                 
-                with open("logs/write_log.txt", "a") as log:
-                    log_url = "./order_objects/" + self.document_number + ".json\n"
+                with open("logs/" + self.doc_type + "_log.txt", "a") as log:
+                    log_url = "./json_objects/" + self.doc_type + "_objects/" + self.document_number + ".json\n"
                     log.write(log_url)
                 with open(self.get_url(), "x") as file:
                     json.dump(vars(self), file, indent=4)
