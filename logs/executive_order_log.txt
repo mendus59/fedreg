@@ -14,3 +14,13 @@
 ./json_objects/executive_order_objects/2025-02005.json
 ./json_objects/executive_order_objects/2025-02006.json
 ./json_objects/executive_order_objects/2025-02007.json
+./json_objects/executive_order_objects/2025-02009.json
+./json_objects/executive_order_objects/2025-02010.json
+./json_objects/executive_order_objects/2025-02011.json
+./json_objects/executive_order_objects/2025-02012.json
+./json_objects/executive_order_objects/2025-02015.json
+./json_objects/executive_order_objects/2025-02087.json
+./json_objects/executive_order_objects/2025-02089.json
+./json_objects/executive_order_objects/2025-02090.json
+./json_objects/executive_order_objects/2025-02091.json
+./json_objects/executive_order_objects/2025-02094.json
