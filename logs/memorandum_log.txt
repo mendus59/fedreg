@@ -9,3 +9,5 @@
 ./json_objects/memorandum_objects/2025-02042.json
 ./json_objects/memorandum_objects/2025-02043.json
 ./json_objects/memorandum_objects/2025-02037.json
+./json_objects/memorandum_objects/2025-02099.json
+./json_objects/memorandum_objects/2025-02124.json

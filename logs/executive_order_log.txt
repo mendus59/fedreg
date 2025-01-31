@@ -24,3 +24,15 @@
 ./json_objects/executive_order_objects/2025-02090.json
 ./json_objects/executive_order_objects/2025-02091.json
 ./json_objects/executive_order_objects/2025-02094.json
+./json_objects/executive_order_objects/2025-02095.json
+./json_objects/executive_order_objects/2025-02096.json
+./json_objects/executive_order_objects/2025-02097.json
+./json_objects/executive_order_objects/2025-02098.json
+./json_objects/executive_order_objects/2025-02103.json
+./json_objects/executive_order_objects/2025-02116.json
+./json_objects/executive_order_objects/2025-02121.json
+./json_objects/executive_order_objects/2025-02123.json
+./json_objects/executive_order_objects/2025-02172.json
+./json_objects/executive_order_objects/2025-02173.json
+./json_objects/executive_order_objects/2025-02174.json
+./json_objects/executive_order_objects/2025-02175.json
