@@ -5,3 +5,5 @@
 ./json_objects/proclamation_objects/2025-02177.json
 ./json_objects/proclamation_objects/2025-02343.json
 ./json_objects/proclamation_objects/2025-02344.json
+./json_objects/proclamation_objects/2025-02402.json
+./json_objects/proclamation_objects/2025-02404.json

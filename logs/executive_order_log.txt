@@ -45,3 +45,4 @@
 ./json_objects/executive_order_objects/2025-02231.json
 ./json_objects/executive_order_objects/2025-02232.json
 ./json_objects/executive_order_objects/2025-02233.json
+./json_objects/executive_order_objects/2025-02345.json
