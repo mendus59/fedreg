@@ -49,3 +49,7 @@
 ./json_objects/executive_order_objects/2025-02406.json
 ./json_objects/executive_order_objects/2025-02407.json
 ./json_objects/executive_order_objects/2025-02408.json
+./json_objects/executive_order_objects/2025-02477.json
+./json_objects/executive_order_objects/2025-02478.json
+./json_objects/executive_order_objects/2025-02479.json
+./json_objects/executive_order_objects/2025-02504.json
