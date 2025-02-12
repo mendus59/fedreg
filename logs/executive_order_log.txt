@@ -55,3 +55,8 @@
 ./json_objects/executive_order_objects/2025-02504.json
 ./json_objects/executive_order_objects/2025-02512.json
 ./json_objects/executive_order_objects/2025-02513.json
+./json_objects/executive_order_objects/2025-02611.json
+./json_objects/executive_order_objects/2025-02612.json
+./json_objects/executive_order_objects/2025-02630.json
+./json_objects/executive_order_objects/2025-02635.json
+./json_objects/executive_order_objects/2025-02636.json
