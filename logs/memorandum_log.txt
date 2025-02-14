@@ -12,3 +12,4 @@
 ./json_objects/memorandum_objects/2025-02099.json
 ./json_objects/memorandum_objects/2025-02124.json
 ./json_objects/memorandum_objects/2025-02176.json
+./json_objects/memorandum_objects/2025-02729.json

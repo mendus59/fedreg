@@ -60,3 +60,7 @@
 ./json_objects/executive_order_objects/2025-02630.json
 ./json_objects/executive_order_objects/2025-02635.json
 ./json_objects/executive_order_objects/2025-02636.json
+./json_objects/executive_order_objects/2025-02734.json
+./json_objects/executive_order_objects/2025-02735.json
+./json_objects/executive_order_objects/2025-02736.json
+./json_objects/executive_order_objects/2025-02762.json
