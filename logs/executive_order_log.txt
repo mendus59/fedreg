@@ -76,3 +76,8 @@
 ./json_objects/executive_order_objects/2025-03439.json
 ./json_objects/executive_order_objects/2025-03440.json
 ./json_objects/executive_order_objects/2025-03527.json
+./json_objects/executive_order_objects/2025-03693.json
+./json_objects/executive_order_objects/2025-03694.json
+./json_objects/executive_order_objects/2025-03695.json
+./json_objects/executive_order_objects/2025-03728.json
+./json_objects/executive_order_objects/2025-03729.json
