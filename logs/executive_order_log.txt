@@ -92,3 +92,4 @@
 ./json_objects/executive_order_objects/2025-04866.json
 ./json_objects/executive_order_objects/2025-04867.json
 ./json_objects/executive_order_objects/2025-04868.json
+./json_objects/executive_order_objects/2025-04973.json
