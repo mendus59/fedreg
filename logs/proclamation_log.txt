@@ -19,3 +19,4 @@
 ./json_objects/proclamation_objects/2025-04865.json
 ./json_objects/proclamation_objects/2025-04970.json
 ./json_objects/proclamation_objects/2025-04972.json
+./json_objects/proclamation_objects/2025-05150.json
