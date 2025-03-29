@@ -4,3 +4,4 @@
 ./json_objects/notice_objects/2025-03462.json
 ./json_objects/notice_objects/2025-03463.json
 ./json_objects/notice_objects/2025-04104.json
+./json_objects/notice_objects/2025-05593.json
