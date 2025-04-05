@@ -109,3 +109,5 @@
 ./json_objects/executive_order_objects/2025-05838.json
 ./json_objects/executive_order_objects/2025-05906.json
 ./json_objects/executive_order_objects/2025-05908.json
+./json_objects/executive_order_objects/2025-06027.json
+./json_objects/executive_order_objects/2025-06063.json
