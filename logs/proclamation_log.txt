@@ -27,3 +27,4 @@
 ./json_objects/proclamation_objects/2025-06159.json
 ./json_objects/proclamation_objects/2025-06160.json
 ./json_objects/proclamation_objects/2025-06161.json
+./json_objects/proclamation_objects/2025-06936.json
