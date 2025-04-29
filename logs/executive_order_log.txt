@@ -137,3 +137,5 @@
 ./json_objects/executive_order_objects/2025-07378.json
 ./json_objects/executive_order_objects/2025-07379.json
 ./json_objects/executive_order_objects/2025-07380.json
+./json_objects/executive_order_objects/2025-07469.json
+./json_objects/executive_order_objects/2025-07470.json
