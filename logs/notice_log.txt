@@ -9,3 +9,6 @@
 ./json_objects/notice_objects/2025-06289.json
 ./json_objects/notice_objects/2025-06399.json
 ./json_objects/notice_objects/2025-06799.json
+./json_objects/notice_objects/2025-08310.json
+./json_objects/notice_objects/2025-08311.json
+./json_objects/notice_objects/2025-08382.json
