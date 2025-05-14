@@ -48,3 +48,6 @@
 ./json_objects/proclamation_objects/2025-08265.json
 ./json_objects/proclamation_objects/2025-08487.json
 ./json_objects/proclamation_objects/2025-08488.json
+./json_objects/proclamation_objects/2025-08673.json
+./json_objects/proclamation_objects/2025-08679.json
+./json_objects/proclamation_objects/2025-08680.json
