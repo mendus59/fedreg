@@ -18272,3 +18272,13 @@
 2025-06-04 07:20:39 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-06-04 07:20:39 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-06-04 07:20:39 INFO     Fedreg API run completed
+2025-06-04 08:28:46 INFO     Hourly fedreg script started
+2025-06-04 08:28:46 INFO     Date requested: 2025-06-04
+2025-06-04 08:28:47 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-06-04 08:28:53 INFO     AI Summary call set for Document #2025-10322: Presidential Waiver of Statutory Requirements Pursuant to Section 303 of the Defense Production Act of 1950: Reviving the Manufacturing and Defense Industrial Base for Munitions and Minerals
+2025-06-04 08:28:53 INFO     Object has been created: Document #2025-10322: Presidential Waiver of Statutory Requirements Pursuant to Section 303 of the Defense Production Act of 1950: Reviving the Manufacturing and Defense Industrial Base for Munitions and Minerals
+2025-06-04 08:28:57 INFO     AI Summary call set for Document #2025-10323: Unified Command Plan Change
+2025-06-04 08:28:57 INFO     Object has been created: Document #2025-10323: Unified Command Plan Change
+2025-06-04 08:28:57 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-06-04 08:28:59 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-06-04 08:28:59 INFO     Fedreg API run completed
