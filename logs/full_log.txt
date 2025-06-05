@@ -18488,3 +18488,11 @@
 2025-06-05 17:15:19 INFO     Error processing file: Document #2025-10392: Sequestration Order for Fiscal Year 2026 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
 2025-06-05 17:15:20 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-06-05 17:15:20 INFO     Fedreg API run completed
+2025-06-05 19:14:36 INFO     Hourly fedreg script started
+2025-06-05 19:14:36 INFO     Date requested: 2025-06-05
+2025-06-05 19:14:37 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-06-05 19:14:38 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-06-05 19:14:39 INFO     AI Summary call set for Document #2025-10392: Sequestration Order for Fiscal Year 2026 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+2025-06-05 19:14:39 INFO     Error processing file: Document #2025-10392: Sequestration Order for Fiscal Year 2026 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+2025-06-05 19:14:39 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-06-05 19:14:39 INFO     Fedreg API run completed
