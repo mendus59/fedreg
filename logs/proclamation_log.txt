@@ -64,3 +64,4 @@
 ./json_objects/proclamation_objects/2025-10396.json
 ./json_objects/proclamation_objects/2025-10668.json
 ./json_objects/proclamation_objects/2025-10669.json
+./json_objects/proclamation_objects/2025-10790.json
