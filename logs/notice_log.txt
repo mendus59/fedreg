@@ -18,3 +18,5 @@
 ./json_objects/notice_objects/2025-11354.json
 ./json_objects/notice_objects/2025-11372.json
 ./json_objects/notice_objects/2025-11389.json
+./json_objects/notice_objects/2025-11683.json
+./json_objects/notice_objects/2025-11684.json
