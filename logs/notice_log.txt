@@ -21,3 +21,6 @@
 ./json_objects/notice_objects/2025-11683.json
 ./json_objects/notice_objects/2025-11684.json
 ./json_objects/notice_objects/2025-11905.json
+./json_objects/notice_objects/2025-12509.json
+./json_objects/notice_objects/2025-12510.json
+./json_objects/notice_objects/2025-12511.json
