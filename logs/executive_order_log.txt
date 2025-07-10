@@ -168,3 +168,5 @@
 ./json_objects/executive_order_objects/2025-12506.json
 ./json_objects/executive_order_objects/2025-12774.json
 ./json_objects/executive_order_objects/2025-12775.json
+./json_objects/executive_order_objects/2025-12961.json
+./json_objects/executive_order_objects/2025-12962.json
