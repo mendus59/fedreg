@@ -26627,3 +26627,15 @@
 2025-08-05 07:27:20 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-08-05 07:27:21 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-08-05 07:27:21 INFO     Fedreg API run completed
+2025-08-05 08:32:09 INFO     Hourly fedreg script started
+2025-08-05 08:32:09 INFO     Date requested: 2025-08-05
+2025-08-05 08:32:20 INFO     AI Summary call set for Document #2025-14896: Addressing Threats to the United States by the Government of Brazil
+2025-08-05 08:32:20 INFO     Object has been created: Document #2025-14896: Addressing Threats to the United States by the Government of Brazil
+2025-08-05 08:32:23 INFO     AI Summary call set for Document #2025-14897: Suspending Duty-Free De Minimis Treatment for All Countries
+2025-08-05 08:32:23 INFO     Object has been created: Document #2025-14897: Suspending Duty-Free De Minimis Treatment for All Countries
+2025-08-05 08:32:23 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-08-05 08:32:24 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-08-05 08:32:28 INFO     AI Summary call set for Document #2025-14893: Adjusting Imports of Copper Into the United States
+2025-08-05 08:32:28 INFO     Object has been created: Document #2025-14893: Adjusting Imports of Copper Into the United States
+2025-08-05 08:32:29 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-08-05 08:32:29 INFO     Fedreg API run completed
