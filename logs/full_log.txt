@@ -27037,3 +27037,13 @@
 2025-08-08 07:26:32 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-08-08 07:26:34 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-08-08 07:26:34 INFO     Fedreg API run completed
+2025-08-08 08:31:20 INFO     Hourly fedreg script started
+2025-08-08 08:31:20 INFO     Date requested: 2025-08-08
+2025-08-08 08:31:23 INFO     AI Summary call set for Document #2025-15193: Establishing the White House Task Force on the 2028 Summer Olympics
+2025-08-08 08:31:23 INFO     Object has been created: Document #2025-15193: Establishing the White House Task Force on the 2028 Summer Olympics
+2025-08-08 08:31:23 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-08-08 08:31:25 INFO     AI Summary call set for Document #2025-15194: Continuation of the National Emergency With Respect to the Advancement by Countries of Concern in Sensitive Technologies and Products Critical for the Military, Intelligence, Surveillance, or Cyber-Enabled Capabilities of Such Countries
+2025-08-08 08:31:25 INFO     Object has been created: Document #2025-15194: Continuation of the National Emergency With Respect to the Advancement by Countries of Concern in Sensitive Technologies and Products Critical for the Military, Intelligence, Surveillance, or Cyber-Enabled Capabilities of Such Countries
+2025-08-08 08:31:25 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-08-08 08:31:25 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-08-08 08:31:25 INFO     Fedreg API run completed

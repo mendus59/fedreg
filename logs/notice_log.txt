@@ -31,3 +31,4 @@
 ./json_objects/notice_objects/2025-14393.json
 ./json_objects/notice_objects/2025-14789.json
 ./json_objects/notice_objects/2025-15016.json
+./json_objects/notice_objects/2025-15194.json
