@@ -182,3 +182,4 @@
 ./json_objects/executive_order_objects/2025-14999.json
 ./json_objects/executive_order_objects/2025-15011.json
 ./json_objects/executive_order_objects/2025-15193.json
+./json_objects/executive_order_objects/2025-15267.json
