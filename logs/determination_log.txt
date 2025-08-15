@@ -1,1 +1,5 @@
 ./json_objects/determination_objects/2025-09872.json
+./json_objects/determination_objects/2025-15679.json
+./json_objects/determination_objects/2025-15680.json
+./json_objects/determination_objects/2025-15682.json
+./json_objects/determination_objects/2025-15683.json

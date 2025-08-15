@@ -27975,3 +27975,19 @@
 2025-08-15 07:20:22 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-08-15 07:20:24 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-08-15 07:20:24 INFO     Fedreg API run completed
+2025-08-15 08:28:37 INFO     Hourly fedreg script started
+2025-08-15 08:28:37 INFO     Date requested: 2025-08-15
+2025-08-15 08:28:39 INFO     AI Summary call set for Document #2025-15679: Continuation of U.S. Drug Interdiction Assistance to the Government of Colombia
+2025-08-15 08:28:39 INFO     Object has been created: Document #2025-15679: Continuation of U.S. Drug Interdiction Assistance to the Government of Colombia
+2025-08-15 08:28:41 INFO     AI Summary call set for Document #2025-15680: Presidential Determination and Certification with Respect to the Child Soldiers Prevention Act of 2008
+2025-08-15 08:28:41 INFO     Object has been created: Document #2025-15680: Presidential Determination and Certification with Respect to the Child Soldiers Prevention Act of 2008
+2025-08-15 08:28:42 INFO     AI Summary call set for Document #2025-15682: Extension of Waiver of Section 907 of the FREEDOM Support Act with Respect to Assistance to the Government of Azerbaijan
+2025-08-15 08:28:42 INFO     Object has been created: Document #2025-15682: Extension of Waiver of Section 907 of the FREEDOM Support Act with Respect to Assistance to the Government of Azerbaijan
+2025-08-15 08:28:44 INFO     AI Summary call set for Document #2025-15683: Establishing a Trump Route for International Peace and Prosperity Working Group
+2025-08-15 08:28:44 INFO     Object has been created: Document #2025-15683: Establishing a Trump Route for International Peace and Prosperity Working Group
+2025-08-15 08:28:44 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-08-15 08:28:45 INFO     AI Summary call set for Document #2025-15656: Delegation of Authority Under Section 404 (c) of the Child Soldiers Prevention Act of 2008
+2025-08-15 08:28:45 INFO     Object has been created: Document #2025-15656: Delegation of Authority Under Section 404 (c) of the Child Soldiers Prevention Act of 2008
+2025-08-15 08:28:45 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-08-15 08:28:46 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-08-15 08:28:46 INFO     Fedreg API run completed
