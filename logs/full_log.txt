@@ -30725,3 +30725,11 @@
 2025-09-04 07:18:48 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-09-04 07:18:50 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-09-04 07:18:50 INFO     Fedreg API run completed
+2025-09-04 08:25:56 INFO     Hourly fedreg script started
+2025-09-04 08:25:56 INFO     Date requested: 2025-09-04
+2025-09-04 08:25:58 INFO     AI Summary call set for Document #2025-17036: Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
+2025-09-04 08:25:58 INFO     Object has been created: Document #2025-17036: Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
+2025-09-04 08:25:58 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-09-04 08:25:58 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-09-04 08:25:59 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-09-04 08:25:59 INFO     Fedreg API run completed
