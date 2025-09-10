@@ -31553,3 +31553,19 @@
 2025-09-10 07:19:12 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-09-10 07:19:12 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-09-10 07:19:12 INFO     Fedreg API run completed
+2025-09-10 08:26:51 INFO     Hourly fedreg script started
+2025-09-10 08:26:51 INFO     Date requested: 2025-09-10
+2025-09-10 08:26:53 INFO     AI Summary call set for Document #2025-17509: Strengthening Efforts To Protect U.S. Nationals From Wrongful Detention Abroad
+2025-09-10 08:26:53 INFO     Object has been created: Document #2025-17509: Strengthening Efforts To Protect U.S. Nationals From Wrongful Detention Abroad
+2025-09-10 08:27:01 INFO     AI Summary call set for Document #2025-17507: Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements
+2025-09-10 08:27:01 INFO     Object has been created: Document #2025-17507: Modifying the Scope of Reciprocal Tariffs and Establishing Procedures for Implementing Trade and Security Agreements
+2025-09-10 08:27:03 INFO     AI Summary call set for Document #2025-17508: Restoring the United States Department of War
+2025-09-10 08:27:03 INFO     Object has been created: Document #2025-17508: Restoring the United States Department of War
+2025-09-10 08:27:03 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-09-10 08:27:06 INFO     AI Summary call set for Document #2025-17551: Continuation of the National Emergency With Respect to Ethiopia
+2025-09-10 08:27:06 INFO     Object has been created: Document #2025-17551: Continuation of the National Emergency With Respect to Ethiopia
+2025-09-10 08:27:07 INFO     AI Summary call set for Document #2025-17552: Continuation of the National Emergency With Respect to Persons Who Commit, Threaten To Commit, or Support Terrorism
+2025-09-10 08:27:07 INFO     Object has been created: Document #2025-17552: Continuation of the National Emergency With Respect to Persons Who Commit, Threaten To Commit, or Support Terrorism
+2025-09-10 08:27:08 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-09-10 08:27:08 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-09-10 08:27:08 INFO     Fedreg API run completed
