@@ -202,3 +202,5 @@
 ./json_objects/executive_order_objects/2025-17509.json
 ./json_objects/executive_order_objects/2025-17507.json
 ./json_objects/executive_order_objects/2025-17508.json
+./json_objects/executive_order_objects/2025-18479.json
+./json_objects/executive_order_objects/2025-18482.json
