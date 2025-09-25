@@ -33625,3 +33625,11 @@
 2025-09-25 08:27:14 INFO     Error processing file: Document #2025-18709: Designating Antifa as a Domestic Terrorist Organization
 2025-09-25 08:27:14 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-09-25 08:27:14 INFO     Fedreg API run completed
+2025-09-25 09:21:22 INFO     Hourly fedreg script started
+2025-09-25 09:21:22 INFO     Date requested: 2025-09-25
+2025-09-25 09:21:23 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-09-25 09:21:24 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-09-25 09:21:28 INFO     AI Summary call set for Document #2025-18709: Designating Antifa as a Domestic Terrorist Organization
+2025-09-25 09:21:28 INFO     Error processing file: Document #2025-18709: Designating Antifa as a Domestic Terrorist Organization
+2025-09-25 09:21:28 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-09-25 09:21:28 INFO     Fedreg API run completed
