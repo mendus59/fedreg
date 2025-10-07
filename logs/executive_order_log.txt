@@ -208,3 +208,4 @@
 ./json_objects/executive_order_objects/2025-19139.json
 ./json_objects/executive_order_objects/2025-19485.json
 ./json_objects/executive_order_objects/2025-19483.json
+./json_objects/executive_order_objects/2025-19495.json
