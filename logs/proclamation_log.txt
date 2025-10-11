@@ -94,3 +94,5 @@
 ./json_objects/proclamation_objects/2025-19482.json
 ./json_objects/proclamation_objects/2025-19497.json
 ./json_objects/proclamation_objects/2025-19534.json
+./json_objects/proclamation_objects/2025-19561.json
+./json_objects/proclamation_objects/2025-19563.json
