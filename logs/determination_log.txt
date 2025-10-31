@@ -5,3 +5,5 @@
 ./json_objects/determination_objects/2025-15683.json
 ./json_objects/determination_objects/2025-17036.json
 ./json_objects/determination_objects/2025-18078.json
+./json_objects/determination_objects/2025-19753.json
+./json_objects/determination_objects/2025-19752.json

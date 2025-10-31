@@ -38503,3 +38503,13 @@
 2025-10-31 07:19:14 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-10-31 07:19:16 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-10-31 07:19:16 INFO     Fedreg API run completed
+2025-10-31 08:27:25 INFO     Hourly fedreg script started
+2025-10-31 08:27:25 INFO     Date requested: 2025-10-31
+2025-10-31 08:27:27 INFO     AI Summary call set for Document #2025-19753: Presidential Determination on Transferring the United States Program of Initial Refugee Resettlement
+2025-10-31 08:27:27 INFO     Object has been created: Document #2025-19753: Presidential Determination on Transferring the United States Program of Initial Refugee Resettlement
+2025-10-31 08:27:28 INFO     AI Summary call set for Document #2025-19752: Presidential Determination on Refugee Admissions for Fiscal Year 2026
+2025-10-31 08:27:28 INFO     Object has been created: Document #2025-19752: Presidential Determination on Refugee Admissions for Fiscal Year 2026
+2025-10-31 08:27:28 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-10-31 08:27:29 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-10-31 08:27:29 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-10-31 08:27:29 INFO     Fedreg API run completed
