@@ -45040,3 +45040,17 @@
 2025-12-19 08:31:35 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
 2025-12-19 08:31:35 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
 2025-12-19 08:31:35 INFO     Fedreg API run completed
+2025-12-19 09:26:33 INFO     Hourly fedreg script started
+2025-12-19 09:26:33 INFO     Date requested: 2025-12-19
+2025-12-19 09:26:35 INFO     AI Summary call set for Document #2025-23567: Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012
+2025-12-19 09:26:35 INFO     Object has been created: Document #2025-23567: Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012
+2025-12-19 09:26:37 INFO     AI Summary call set for Document #2025-23569: Presidential Determination With Respect to the Efforts of Foreign Governments Regarding Trafficking in Persons
+2025-12-19 09:26:37 INFO     Object has been created: Document #2025-23569: Presidential Determination With Respect to the Efforts of Foreign Governments Regarding Trafficking in Persons
+2025-12-19 09:26:37 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2025-12-19 09:26:38 INFO     AI Summary call set for Document #2025-23568: Delegation of Authority Under Section 208(d)(6) of the Compact of Free Association Amendments Act of 2024
+2025-12-19 09:26:38 INFO     Object has been created: Document #2025-23568: Delegation of Authority Under Section 208(d)(6) of the Compact of Free Association Amendments Act of 2024
+2025-12-19 09:26:38 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2025-12-19 09:26:41 INFO     AI Summary call set for Document #2025-23570: Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States
+2025-12-19 09:26:41 INFO     Object has been created: Document #2025-23570: Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States
+2025-12-19 09:26:41 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2025-12-19 09:26:41 INFO     Fedreg API run completed
