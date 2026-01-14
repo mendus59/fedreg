@@ -27,3 +27,5 @@
 ./json_objects/memorandum_objects/2025-19141.json
 ./json_objects/memorandum_objects/2025-21204.json
 ./json_objects/memorandum_objects/2025-23568.json
+./json_objects/memorandum_objects/2026-00698.json
+./json_objects/memorandum_objects/2026-00697.json
