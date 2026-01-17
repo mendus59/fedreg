@@ -229,3 +229,4 @@
 ./json_objects/executive_order_objects/2026-00248.json
 ./json_objects/executive_order_objects/2026-00554.json
 ./json_objects/executive_order_objects/2026-00831.json
+./json_objects/executive_order_objects/2026-01061.json
