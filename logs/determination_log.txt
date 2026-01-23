@@ -9,3 +9,5 @@
 ./json_objects/determination_objects/2025-19752.json
 ./json_objects/determination_objects/2025-23567.json
 ./json_objects/determination_objects/2025-23569.json
+./json_objects/determination_objects/2026-01421.json
+./json_objects/determination_objects/2026-01422.json
