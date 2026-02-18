@@ -53,3 +53,5 @@
 ./json_objects/notice_objects/2026-01547.json
 ./json_objects/notice_objects/2026-01544.json
 ./json_objects/notice_objects/2026-02497.json
+./json_objects/notice_objects/2026-03279.json
+./json_objects/notice_objects/2026-03272.json
