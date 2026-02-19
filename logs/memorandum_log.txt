@@ -30,3 +30,4 @@
 ./json_objects/memorandum_objects/2026-00698.json
 ./json_objects/memorandum_objects/2026-00697.json
 ./json_objects/memorandum_objects/2026-00976.json
+./json_objects/memorandum_objects/2026-03380.json
