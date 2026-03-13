@@ -131,3 +131,4 @@
 ./json_objects/proclamation_objects/2026-03947.json
 ./json_objects/proclamation_objects/2026-04645.json
 ./json_objects/proclamation_objects/2026-04924.json
+./json_objects/proclamation_objects/2026-05053.json
