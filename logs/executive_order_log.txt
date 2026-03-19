@@ -250,3 +250,4 @@
 ./json_objects/executive_order_objects/2026-05388.json
 ./json_objects/executive_order_objects/2026-05383.json
 ./json_objects/executive_order_objects/2026-05384.json
+./json_objects/executive_order_objects/2026-05497.json
