@@ -63,3 +63,4 @@
 ./json_objects/notice_objects/2026-06078.json
 ./json_objects/notice_objects/2026-06079.json
 ./json_objects/notice_objects/2026-07069.json
+./json_objects/notice_objects/2026-07645.json
