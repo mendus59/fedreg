@@ -64,3 +64,12 @@
 ./json_objects/notice_objects/2026-06079.json
 ./json_objects/notice_objects/2026-07069.json
 ./json_objects/notice_objects/2026-07645.json
+./json_objects/notice_objects/2026-07730.json
+./json_objects/notice_objects/2026-07729.json
+./json_objects/notice_objects/2026-07731.json
+./json_objects/notice_objects/2026-07717.json
+./json_objects/notice_objects/2026-07725.json
+./json_objects/notice_objects/2026-07718.json
+./json_objects/notice_objects/2026-07719.json
+./json_objects/notice_objects/2026-07716.json
+./json_objects/notice_objects/2026-07724.json
