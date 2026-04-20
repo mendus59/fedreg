@@ -4,3 +4,12 @@
 ./json_objects/other_objects/2025-21204.json
 ./json_objects/other_objects/2025-23091.json
 ./json_objects/other_objects/2026-00248.json
+./json_objects/other_objects/2026-07717.json
+./json_objects/other_objects/2026-07718.json
+./json_objects/other_objects/2026-07719.json
+./json_objects/other_objects/2026-07725.json
+./json_objects/other_objects/2026-07729.json
+./json_objects/other_objects/2026-07730.json
+./json_objects/other_objects/2026-07731.json
+./json_objects/other_objects/2026-07716.json
+./json_objects/other_objects/2026-07724.json
