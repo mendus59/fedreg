@@ -11,3 +11,9 @@
 ./json_objects/determination_objects/2025-23569.json
 ./json_objects/determination_objects/2026-01421.json
 ./json_objects/determination_objects/2026-01422.json
+./json_objects/determination_objects/2026-08009.json
+./json_objects/determination_objects/2026-08011.json
+./json_objects/determination_objects/2026-08013.json
+./json_objects/determination_objects/2026-08010.json
+./json_objects/determination_objects/2026-08016.json
+./json_objects/determination_objects/2026-08017.json
