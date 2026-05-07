@@ -140,3 +140,4 @@
 ./json_objects/proclamation_objects/2026-07524.json
 ./json_objects/proclamation_objects/2026-08899.json
 ./json_objects/proclamation_objects/2026-08898.json
+./json_objects/proclamation_objects/2026-09174.json
