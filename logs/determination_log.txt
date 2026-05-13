@@ -18,3 +18,4 @@
 ./json_objects/determination_objects/2026-08016.json
 ./json_objects/determination_objects/2026-08017.json
 ./json_objects/determination_objects/2026-08126.json
+./json_objects/determination_objects/2026-09624.json
