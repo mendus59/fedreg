@@ -266,3 +266,5 @@
 ./json_objects/executive_order_objects/2026-11181.json
 ./json_objects/executive_order_objects/2026-11180.json
 ./json_objects/executive_order_objects/2026-11415.json
+./json_objects/executive_order_objects/2026-11595.json
+./json_objects/executive_order_objects/2026-11594.json
