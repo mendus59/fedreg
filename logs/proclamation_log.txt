@@ -157,3 +157,8 @@
 ./json_objects/proclamation_objects/2026-13842.json
 ./json_objects/proclamation_objects/2026-14334.json
 ./json_objects/proclamation_objects/2026-14452.json
+./json_objects/proclamation_objects/X26-20717.json
+./json_objects/proclamation_objects/X26-10717.json
+./json_objects/proclamation_objects/2026-14549.json
+./json_objects/proclamation_objects/2026-14548.json
+./json_objects/proclamation_objects/2026-14547.json
