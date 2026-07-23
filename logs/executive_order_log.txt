@@ -271,3 +271,4 @@
 ./json_objects/executive_order_objects/2026-12910.json
 ./json_objects/executive_order_objects/2026-12909.json
 ./json_objects/executive_order_objects/2026-13254.json
+./json_objects/executive_order_objects/2026-15003.json
