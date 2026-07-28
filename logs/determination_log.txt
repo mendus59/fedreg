@@ -23,3 +23,4 @@
 ./json_objects/determination_objects/2026-12286.json
 ./json_objects/determination_objects/2026-13408.json
 ./json_objects/determination_objects/2026-13631.json
+./json_objects/determination_objects/2026-15273.json
