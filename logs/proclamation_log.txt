@@ -168,3 +168,4 @@
 ./json_objects/proclamation_objects/2026-14992.json
 ./json_objects/proclamation_objects/2026-14991.json
 ./json_objects/proclamation_objects/2026-14990.json
+./json_objects/proclamation_objects/2026-15975.json
