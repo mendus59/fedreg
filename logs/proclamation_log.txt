@@ -173,3 +173,4 @@
 ./json_objects/proclamation_objects/2026-16400.json
 ./json_objects/proclamation_objects/2026-16799.json
 ./json_objects/proclamation_objects/2026-16979.json
+./json_objects/proclamation_objects/2026-17294.json
