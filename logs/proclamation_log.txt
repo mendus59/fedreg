@@ -185,3 +185,5 @@
 ./json_objects/proclamation_objects/2026-18836.json
 ./json_objects/proclamation_objects/2026-18835.json
 ./json_objects/proclamation_objects/2026-18959.json
+./json_objects/proclamation_objects/2026-19334.json
+./json_objects/proclamation_objects/2026-19333.json
