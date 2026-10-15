@@ -353877,3 +353877,321 @@
 2026-10-15 07:05:20 INFO     AI Summary call failed
 2026-10-15 07:05:20 INFO     Updated summary of Document #2026-07729: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
 2026-10-15 07:05:20 INFO     Fedreg API run completed
+2026-10-15 13:08:44 INFO     Hourly fedreg script started
+2026-10-15 13:08:44 INFO     Date requested: 2026-10-15
+2026-10-15 13:08:44 INFO     AI Summary call failed
+2026-10-15 13:08:44 INFO     Updated summary of Document #2026-18738: Accelerating Access to Veterans' Benefits and Employment Opportunities
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-20855: Emergency Tax Relief on Diesel Fuel
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-19335: Providing Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-11595: Strengthening Customs Enforcement
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-19416: Reinvigorating America's Hunting Heritage
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-19555: Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-12909: Securing the Nation Against Advanced Cryptographic Attacks
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-18567: Promoting Fair Competition in Livestock Markets and Expanding Market Access for American Meat Producers
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-11594: Implementing Schedule Policy/Career in the Excepted Service
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-15357: Restoring Trust in the Smithsonian Institution
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-16730: Delivering Gold Standard Childhood Vaccine Recommendations for Americans
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-15003: Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials
+2026-10-15 13:08:45 INFO     AI Summary call failed
+2026-10-15 13:08:45 INFO     Updated summary of Document #2026-20320: Eliminating Disease-Carrying Pests and Restoring Enjoyment of the Great Outdoors
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-18739: Adjusting Certain Delegations Under the Defense Production Act
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-10399: Integrating Financial Technology Innovation Into Regulatory Frameworks
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-12910: Ushering in the Next Frontier of Quantum Innovation
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-20319: Streamlining Access to Government Services Through America.gov
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-16404: Ending Birth Tourism
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-08908: Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-19417: Restoring American Saltwater Angling and Recreation
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-09173: Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-08900: Promoting Efficiency, Accountability, and Performance in Federal Contracting
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-16403: Continuing To Protect the Meaning and Value of American Citizenship
+2026-10-15 13:08:46 INFO     AI Summary call failed
+2026-10-15 13:08:46 INFO     Updated summary of Document #2026-10400: Restoring Integrity to America's Financial System
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-16125: Establishing the President's Military Spouse Commission
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-11181: Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-11180: Realigning United States Core Childhood Vaccine Recommendations With Best Practices From Peer, Developed Countries
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-11415: Promoting Advanced Artificial Intelligence Innovation and Security
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-13254: Advancing Regenerative Agriculture and Strengthening American Farm Resilience
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-18020: Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-07907: Accelerating Medical Treatments for Serious Mental Illness
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-18141: Establishing the United States Space Academy
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-18571: Supporting America's Ranchers
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-20321: Inaugurating the Era of Super Intelligence
+2026-10-15 13:08:47 INFO     AI Summary call failed
+2026-10-15 13:08:47 INFO     Updated summary of Document #2026-17843: Declaring a National Emergency To Secure the United States Bulk-Power System
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-12286: Presidential Determination and Delegation of Authority Under Section 708 of the Defense Production Act of 1950, as Amended
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-15273: Presidential Determination on the Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of the Kingdom of Saudi Arabia Concerning Peaceful Uses of Nuclear Energy
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-08017: Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas Capacity
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-13408: Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-17477: Presidential Determination on Provision of Atomic Information to Finland and Sweden
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-17374: Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-20318: Presidential Determination on Refugee Admissions for Fiscal Year 2027
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-08011: Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large- Scale Energy and Energy Related Infrastructure
+2026-10-15 13:08:48 INFO     AI Summary call failed
+2026-10-15 13:08:48 INFO     Updated summary of Document #2026-08010: Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-19251: Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2027
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-16312: Continuation of U.S. Drug Interdiction Assistance to the Government of Colombia
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-08016: Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-20439: Presidential Determination on the Revocation of Presidential Determinations Related to Lebanon
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-10598: Emergency Presidential Determination on Refugee Admissions for Fiscal Year 2026
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-08013: Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-09624: Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-08009: Presidential Determination Concerning the Air Force's Jet Fighter Training Operations in Idaho, Oregon, and Nevada
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-15859: Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-08126: Eligibility of the Board of Peace To Receive Defense Articles and Defense Services Under the Foreign Assistance Act of 1961 and the Arms Export Control Act
+2026-10-15 13:08:49 INFO     Audit failed for: ./json_objects/determination_objects/.gitkeep
+2026-10-15 13:08:49 INFO     AI Summary call failed
+2026-10-15 13:08:49 INFO     Updated summary of Document #2026-13631: Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000
+2026-10-15 13:08:50 INFO     AI Summary call failed
+2026-10-15 13:08:50 INFO     Updated summary of Document #2026-19336: Restoring Reciprocity in Government Procurement
+2026-10-15 13:08:50 INFO     AI Summary call failed
+2026-10-15 13:08:50 INFO     Updated summary of Document #2026-14654: Action by the United States in the Investigation Under Section 301 of the Trade Act of 1974 of Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation
+2026-10-15 13:08:50 INFO     AI Summary call failed
+2026-10-15 13:08:50 INFO     Updated summary of Document #2026-17372: The National Space Transportation Policy
+2026-10-15 13:08:50 INFO     AI Summary call failed
+2026-10-15 13:08:50 INFO     Updated summary of Document #2026-15274: Actions by the United States in the Investigations Under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor
+2026-10-15 13:08:50 INFO     AI Summary call failed
+2026-10-15 13:08:50 INFO     Updated summary of Document #2026-21061: Establishment of a Committee of Inquiry To Investigate Allegations of False Statements by Lisa DeNell Cook
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-16015: Continuation of the National Emergency With Respect to the Advancement by Countries of Concern in Sensitive Technologies and Products Critical for the Military, Intelligence, Surveillance, or Cyber-Enabled Capabilities of Such Countries
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-19053: Continuation of the National Emergency With Respect to Persons Who Commit, Threaten To Commit, or Support Terrorism
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-09176: Continuation of the National Emergency With Respect to the Stabilization of Iraq
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-08909: Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the United States and Canada
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-15024: Continuation of the National Emergency With Respect to Mali
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-07716: Authorizing Bakken Pipeline Company LP To Construct, Connect, Operate, and Maintain Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-10481: Continuation of the National Emergency With Respect to Belarus
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-16748: Continuation of the National Emergency With Respect to Export Control Regulations
+2026-10-15 13:08:51 INFO     AI Summary call failed
+2026-10-15 13:08:51 INFO     Updated summary of Document #2026-12836: Continuation of the National Emergency With Respect to North Korea
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-18046: Continuation of the National Emergency With Respect to Foreign Interference in or Undermining Public Confidence in United States Elections
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-12837: Continuation of the National Emergency With Respect to the Western Balkans
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-14453: Continuation of the National Emergency With Respect to Hostage-Taking and the Wrongful Detention of United States Nationals Abroad
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-15389: Continuation of the National Emergency With Respect to Brazil
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-09175: Continuation of the National Emergency With Respect to the Central African Republic
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-07069: Continuation of the National Emergency With Respect to Somalia
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-20322: Continuation of the National Emergency With Respect to the Situation in and in Relation to Syria
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-09385: Continuation of the National Emergency With Respect to Yemen
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-07719: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-07730: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-07731: Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:52 INFO     AI Summary call failed
+2026-10-15 13:08:52 INFO     Updated summary of Document #2026-07724: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-07725: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-09671: Continuation of the National Emergency With Respect to Securing the Information and Communications Technology and Services Supply Chain
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-18589: Continuation of the National Emergency With Respect to Certain Terrorist Attacks
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-07645: Continuation of the National Emergency and of the Emergency Authority Relating to the Regulation of the Anchorage and Movement of Russian-Affiliated Vessels to United States Ports
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-14454: Continuation of the National Emergency With Respect to Significant Transnational Criminal Organizations
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-07718: Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-07717: Authorizing Bakken Pipeline Company LP To Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-15658: Continuation of the National Emergency With Respect to Lebanon
+2026-10-15 13:08:53 INFO     Audit failed for: ./json_objects/notice_objects/.gitkeep
+2026-10-15 13:08:53 INFO     AI Summary call failed
+2026-10-15 13:08:53 INFO     Updated summary of Document #2026-07729: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:08:54 INFO     AI Summary call failed
+2026-10-15 13:08:54 INFO     Updated summary of Document #2026-13588: Declaration of Emergency and Authorization for Temporary Duty-Free Importation of Phosphate Fertilizer From Morocco
+2026-10-15 13:08:54 INFO     AI Summary call failed
+2026-10-15 13:08:54 INFO     Updated summary of Document #2026-16979: Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components Into the United States
+2026-10-15 13:08:54 INFO     AI Summary call failed
+2026-10-15 13:08:54 INFO     Updated summary of Document #2026-13842: 250th Anniversary of the Adoption of the Declaration of Independence
+2026-10-15 13:08:54 INFO     AI Summary call failed
+2026-10-15 13:08:54 INFO     Updated summary of Document #2026-15975: To Facilitate Positive Adjustment to Competition From Imports of Quartz Surface Products
+2026-10-15 13:08:54 INFO     AI Summary call failed
+2026-10-15 13:08:54 INFO     Updated summary of Document #2026-10733: Memorial Day, 2026
+2026-10-15 13:08:54 INFO     AI Summary call failed
+2026-10-15 13:08:54 INFO     Updated summary of Document #2026-14991: Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages
+2026-10-15 13:08:55 INFO     AI Summary call failed
+2026-10-15 13:08:55 INFO     Updated summary of Document #2026-19334: National POW/MIA Recognition Day, 2026
+2026-10-15 13:08:55 INFO     AI Summary call failed
+2026-10-15 13:08:55 INFO     Updated summary of Document #2026-09505: Military Spouse Day, 2026
+2026-10-15 13:08:55 INFO     AI Summary call failed
+2026-10-15 13:08:55 INFO     Updated summary of Document #2026-16401: National Purple Heart Day, 2026
+2026-10-15 13:08:55 INFO     AI Summary call failed
+2026-10-15 13:08:55 INFO     Updated summary of Document #2026-16799: National Substance Use Primary Prevention Month, 2026
+2026-10-15 13:08:55 INFO     AI Summary call failed
+2026-10-15 13:08:55 INFO     Updated summary of Document #2026-19554: Restriction on Entry of Certain Nonimmigrant Workers
+2026-10-15 13:08:55 INFO     AI Summary call failed
+2026-10-15 13:08:55 INFO     Updated summary of Document #2026-18836: Excluding Certain Canadian Products From Importation Into the United States in Response to Continued Discrimination Against the Commerce of the United States With Respect to Dairy
+2026-10-15 13:08:56 INFO     AI Summary call failed
+2026-10-15 13:08:56 INFO     Updated summary of Document #2026-09779: Peace Officers Memorial Day and Police Week, 2026
+2026-10-15 13:08:56 INFO     AI Summary call failed
+2026-10-15 13:08:56 INFO     Updated summary of Document #2026-14334: Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts Into the United States
+2026-10-15 13:08:56 INFO     AI Summary call failed
+2026-10-15 13:08:56 INFO     Updated summary of Document #2026-08898: National Foster Care Month, 2026
+2026-10-15 13:08:56 INFO     AI Summary call failed
+2026-10-15 13:08:56 INFO     Updated summary of Document #2026-17842: Further Ensuring Affordable Beef for the American Consumer
+2026-10-15 13:08:56 INFO     AI Summary call failed
+2026-10-15 13:08:56 INFO     Updated summary of Document #2026-10398: To Implement Certain Provisions in the Consolidated Appropriations Act, 2026, and for Other Purposes
+2026-10-15 13:08:56 INFO     AI Summary call failed
+2026-10-15 13:08:56 INFO     Updated summary of Document #2026-08899: National Fallen Firefighters Memorial Weekend, 2026
+2026-10-15 13:08:57 INFO     AI Summary call failed
+2026-10-15 13:08:57 INFO     Updated summary of Document #2026-17294: Temporary Suspension of Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages, Dairy, and Motor Vehicles
+2026-10-15 13:08:57 INFO     AI Summary call failed
+2026-10-15 13:08:57 INFO     Updated summary of Document #2026-14999: Made in America Week, 2026
+2026-10-15 13:08:57 INFO     AI Summary call failed
+2026-10-15 13:08:57 INFO     Updated summary of Document #2026-17841: Fifth Anniversary of the Attack at Abbey Gate
+2026-10-15 13:08:57 INFO     AI Summary call failed
+2026-10-15 13:08:57 INFO     Updated summary of Document #X26-20717: Modifying the Grand Staircase-Escalante National Monument
+2026-10-15 13:08:57 INFO     AI Summary call failed
+2026-10-15 13:08:57 INFO     Updated summary of Document #2026-14549: Modifying the Grand Staircase-Escalante National Monument
+2026-10-15 13:08:57 INFO     AI Summary call failed
+2026-10-15 13:08:57 INFO     Updated summary of Document #2026-12436: Flag Day and National Flag Week, 2026
+2026-10-15 13:08:58 INFO     AI Summary call failed
+2026-10-15 13:08:58 INFO     Updated summary of Document #2026-14992: Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Dairy
+2026-10-15 13:08:58 INFO     AI Summary call failed
+2026-10-15 13:08:58 INFO     Updated summary of Document #2026-14548: Modifying the Bears Ears National Monument
+2026-10-15 13:08:58 INFO     AI Summary call failed
+2026-10-15 13:08:58 INFO     Updated summary of Document #2026-20093: Gold Star Mother's and Family's Day, 2026
+2026-10-15 13:08:58 INFO     AI Summary call failed
+2026-10-15 13:08:58 INFO     Updated summary of Document #2026-11741: Granting Pardon to Stephen E. Buyer
+2026-10-15 13:08:58 INFO     AI Summary call failed
+2026-10-15 13:08:58 INFO     Updated summary of Document #2026-18959: Patriot Day 2026, the 25th Anniversary of the September 11 Terrorist Attacks
+2026-10-15 13:08:58 INFO     AI Summary call failed
+2026-10-15 13:08:58 INFO     Updated summary of Document #X26-10831: Further Ensuring Affordable Beef for the American Consumer
+2026-10-15 13:08:59 INFO     AI Summary call failed
+2026-10-15 13:08:59 INFO     Updated summary of Document #2026-18573: Labor Day, 2026
+2026-10-15 13:08:59 INFO     AI Summary call failed
+2026-10-15 13:08:59 INFO     Updated summary of Document #X26-10717: Modifying the Bears Ears National Monument
+2026-10-15 13:08:59 INFO     AI Summary call failed
+2026-10-15 13:08:59 INFO     Updated summary of Document #2026-16400: Adjusting Imports of Polysilicon and Its Derivatives Into the United States
+2026-10-15 13:08:59 INFO     AI Summary call failed
+2026-10-15 13:08:59 INFO     Updated summary of Document #2026-14452: Regulatory Relief for Certain Stationary Sources To Promote American Chemical Manufacturing Security
+2026-10-15 13:08:59 INFO     AI Summary call failed
+2026-10-15 13:08:59 INFO     Updated summary of Document #2026-09277: National Physical Fitness and Sports Month, 2026
+2026-10-15 13:08:59 INFO     AI Summary call failed
+2026-10-15 13:08:59 INFO     Updated summary of Document #2026-12283: Restoring American Commercial Fishing in the Pacific
+2026-10-15 13:08:59 INFO     AI Summary call failed
+2026-10-15 13:08:59 INFO     Updated summary of Document #2026-14998: Captive Nations Week, 2026
+2026-10-15 13:09:00 INFO     AI Summary call failed
+2026-10-15 13:09:00 INFO     Updated summary of Document #2026-18838: Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages
+2026-10-15 13:09:00 INFO     AI Summary call failed
+2026-10-15 13:09:00 INFO     Updated summary of Document #2026-20629: National Manufacturing Day, 2026
+2026-10-15 13:09:00 INFO     AI Summary call failed
+2026-10-15 13:09:00 INFO     Updated summary of Document #2026-19333: Constitution Day, Citizenship Day, and Constitution Week, 2026
+2026-10-15 13:09:00 INFO     AI Summary call failed
+2026-10-15 13:09:00 INFO     Updated summary of Document #2026-14990: Further Strengthening Actions Taken To Adjust Imports of Aluminum Into the United States
+2026-10-15 13:09:00 INFO     AI Summary call failed
+2026-10-15 13:09:00 INFO     Updated summary of Document #2026-20969: National Energy Dominance Month, 2026
+2026-10-15 13:09:00 INFO     AI Summary call failed
+2026-10-15 13:09:00 INFO     Updated summary of Document #2026-14547: Death of Senator Lindsey Graham
+2026-10-15 13:09:01 INFO     AI Summary call failed
+2026-10-15 13:09:01 INFO     Updated summary of Document #2026-12435: National Homeownership Month, 2026
+2026-10-15 13:09:01 INFO     AI Summary call failed
+2026-10-15 13:09:01 INFO     Updated summary of Document #2026-11314: Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper Into the United States
+2026-10-15 13:09:01 INFO     AI Summary call failed
+2026-10-15 13:09:01 INFO     Updated summary of Document #2026-09506: Victory Day for World War II, 2026
+2026-10-15 13:09:01 INFO     AI Summary call failed
+2026-10-15 13:09:01 INFO     Updated summary of Document #2026-20972: Columbus Day, 2026
+2026-10-15 13:09:01 INFO     AI Summary call failed
+2026-10-15 13:09:01 INFO     Updated summary of Document #2026-07524: Day of Celebration in Honor of the Life of Henry Clay, 2026
+2026-10-15 13:09:01 INFO     AI Summary call failed
+2026-10-15 13:09:01 INFO     Updated summary of Document #2026-12282: 75th Anniversary of the White House Navy Mess, 2026
+2026-10-15 13:09:02 INFO     AI Summary call failed
+2026-10-15 13:09:02 INFO     Updated summary of Document #2026-17716: Honoring the Memory of Dolly Parton
+2026-10-15 13:09:02 INFO     AI Summary call failed
+2026-10-15 13:09:02 INFO     Updated summary of Document #2026-14997: Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles
+2026-10-15 13:09:02 INFO     AI Summary call failed
+2026-10-15 13:09:02 INFO     Updated summary of Document #2026-09174: Jewish American Heritage Month, 2026
+2026-10-15 13:09:02 INFO     AI Summary call failed
+2026-10-15 13:09:02 INFO     Updated summary of Document #2026-18839: Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles
+2026-10-15 13:09:02 INFO     AI Summary call failed
+2026-10-15 13:09:02 INFO     Updated summary of Document #2026-18837: Excluding Certain Canadian Products From Importation Into the United States in Response to Continued Discrimination Against the Commerce of the United States With Respect to Motor Vehicles
+2026-10-15 13:09:02 INFO     AI Summary call failed
+2026-10-15 13:09:02 INFO     Updated summary of Document #2026-18835: Excluding Certain Canadian Products From Importation Into the United States in Response to Continued Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages
+2026-10-15 13:09:03 INFO     AI Summary call failed
+2026-10-15 13:09:03 INFO     Updated summary of Document #2026-08909: Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the United States and Canada
+2026-10-15 13:09:03 INFO     AI Summary call failed
+2026-10-15 13:09:03 INFO     Updated summary of Document #2026-07716: Authorizing Bakken Pipeline Company LP To Construct, Connect, Operate, and Maintain Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:04 INFO     AI Summary call failed
+2026-10-15 13:09:04 INFO     Updated summary of Document #2026-17372: The National Space Transportation Policy
+2026-10-15 13:09:04 INFO     AI Summary call failed
+2026-10-15 13:09:04 INFO     Updated summary of Document #2026-07719: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:04 INFO     AI Summary call failed
+2026-10-15 13:09:04 INFO     Updated summary of Document #2026-07730: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:04 INFO     AI Summary call failed
+2026-10-15 13:09:04 INFO     Updated summary of Document #2026-07731: Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:04 INFO     AI Summary call failed
+2026-10-15 13:09:04 INFO     Updated summary of Document #2026-07724: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:04 INFO     AI Summary call failed
+2026-10-15 13:09:04 INFO     Updated summary of Document #2026-07725: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:05 INFO     AI Summary call failed
+2026-10-15 13:09:05 INFO     Updated summary of Document #2026-07718: Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:05 INFO     AI Summary call failed
+2026-10-15 13:09:05 INFO     Updated summary of Document #2026-07717: Authorizing Bakken Pipeline Company LP To Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:05 INFO     Audit failed for: ./json_objects/other_objects/.gitkeep
+2026-10-15 13:09:05 INFO     AI Summary call failed
+2026-10-15 13:09:05 INFO     Updated summary of Document #2026-07729: Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada
+2026-10-15 13:09:05 INFO     Fedreg API run completed
