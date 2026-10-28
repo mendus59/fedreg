@@ -31,3 +31,4 @@
 ./json_objects/determination_objects/2026-19251.json
 ./json_objects/determination_objects/2026-20318.json
 ./json_objects/determination_objects/2026-20439.json
+./json_objects/determination_objects/2026-22052.json
