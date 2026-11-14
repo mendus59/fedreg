@@ -199,3 +199,4 @@
 ./json_objects/proclamation_objects/2026-22789.json
 ./json_objects/proclamation_objects/2026-22787.json
 ./json_objects/proclamation_objects/2026-23113.json
+./json_objects/proclamation_objects/2026-23348.json
