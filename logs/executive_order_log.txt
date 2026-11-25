@@ -295,3 +295,4 @@
 ./json_objects/executive_order_objects/2026-21599.json
 ./json_objects/executive_order_objects/2026-21666.json
 ./json_objects/executive_order_objects/2026-22051.json
+./json_objects/executive_order_objects/2026-24114.json
